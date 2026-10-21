@@ -9,3 +9,10 @@
 5. Methodology/planning - what approach are you going to take to develop the project implementation successfully.  For example, use of Trello or KANBAN.  Ideally, you have an overall plan for project development showing the major milestones to be achieved, e.g. setup up scene, implement AI methods, testing (for Quality Assurance), etc.
 6. Progress documentation - regular commits/updates to the project need to be documented with a brief overview and reflection on what has been achieved.  For example, what feature(s) have been added?  Were they achieved in the time allowed?  What problems were there or remain?  What has been learnt and what would you do differently if you had to repeat the project?
 7. References to sources used.  This must include graphics resources used such as models and textures, and code resources (websites, book, AI).
+
+Finite State Machine - https://youtu.be/NnH6ZK5jt7o?si=PX6qIJhtuQJHRfGf
+https://youtu.be/r-f-HiPa3WA?si=NVs9q8iSa4qjND6D
+
+Unity Navmesh Ai - https://youtu.be/CHV1ymlw-P8?si=6jeAA8Rlu_LgMPBE
+https://youtu.be/Ffz42LimEVA?si=CMY4cxssAplNVAly
+https://youtu.be/SMWxCpLvrcc?si=ZCmS7Ifqstc_DnhQ
